@@ -1,4 +1,4 @@
-👋 Hello there! I'm @emptySpac3
+👋 Hello there! I'm @zer0bytee
 
 🎓 Student  
 💡 I like linux(i use arch btw), programming, networking, embeded systems
